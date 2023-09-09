@@ -94,6 +94,7 @@ main {
     text-align: start;
     margin-left: 1.3rem;
     margin-right: 1rem;
+    font-weight: normal;
 }
 
 .todo-button {
